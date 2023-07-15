@@ -11,9 +11,17 @@
         	"        freopen(\"output.txt\", \"w\", stdout);",
     		"    #endif",
 			"",
-			"    $1",
+			"    int t;",
+    		"    cin >> t;",
+    		"    while(t--) {",
+        	"        solve();",
+    		"    }",
 			"",
 			"    return 0;",
+			"}",
+			"",
+			"void solve() {",
+			"    $1",
 			"}"
 		],
 		"description": "C++ Template"
