@@ -1,0 +1,9 @@
+3, Neighbor: 0, Current vertex: 2, Parent vertex: 1
+0
+1
+3, Neighbor: 0, Current vertex: 2, Parent vertex: 1
+0
+1
+1
+5, Neighbor: 0, Current vertex: 4, Parent vertex: 3
+0
